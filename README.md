@@ -5,30 +5,30 @@
 
 ---
 
-## 🎯 Neden Bu Repo?
+## 🎯 Neden Bu Repo - Farklılık olsun.
 
 Base ağında sadece "Hello World" kopyalamak yerine, her biri gerçek bir fikri olan kontratlar yazmak istedim. Kod bilgisi olmadan da yaratıcı olunabileceğini göstermek için paylaşıyorum.
 
 ---
 
-## 📄 Kontratlar
+## 📄 Kontratlar. Buraya kısaca bakın.
 
 | # | Dosya | Açıklama |
 |---|-------|----------|
 | 1 | `MerhabaDunya.sol` | Base'e ilk adım, zincire yazılmış selamlama |
 | 2 | `MesajDefteri.sol` | Herkesin mesaj bırakabildiği açık defter |
-| 3 | `ZamanKapsulu.sol` | 1 yıl sonra açılan gizli mesaj 🕰️ |
+| 3 | `ZamanKapsulu.sol` | 1 yıl sonra açılan gizli mesaj  |
 | 4 | `Sayac.sol` | Zincir üzerinde tıklanabilir sayaç |
 | 5 | `BaseSozlugu.sol` | Kelime ve tanımların saklandığı sözlük |
 | 6 | `NiyetMektubu.sol` | Zincire yazılmış kişisel manifesto |
 | 7 | `OySistemi.sol` | Evet/Hayır oylama sistemi |
 | 8 | `Hazine.sol` | Sahiplik kayıtlı dijital hazine kutusu |
 | 9 | `AniBilgi.sol` | Base hakkında 5 bilgi içeren kontrat |
-| 10 | `SonDokunus.sol` | 10. kontrat — görevi tamamlama kutlaması 🎉 |
+| 10 | `SonDokunus.sol` | 10. kontrat — görevi tamamlama kutlaması  |
 
 ---
 
-## 🛠️ Nasıl Deploy Edilir?
+## 🛠️ Nasıl Deploy Edilir...
 
 ### Gereksinimler
 - [MetaMask](https://metamask.io) cüzdanı
@@ -36,7 +36,7 @@ Base ağında sadece "Hello World" kopyalamak yerine, her biri gerçek bir fikri
 - Base ağı ekli (chainid: 8453)
 - Küçük miktarda ETH (gas için ~$0.50 yeterli)
 
-### Adımlar
+### Adımlar hadi geçelim...
 
 1. [Remix IDE](https://remix.ethereum.org)'yi aç
 2. **New File** oluştur → `.sol` uzantılı isim ver
@@ -49,7 +49,7 @@ Base ağında sadece "Hello World" kopyalamak yerine, her biri gerçek bir fikri
 
 ---
 
-## 🔗 Faydalı Linkler
+## 🔗 Faydalı Linkler. Bakarsınız.
 
 - [Base Resmi Site](https://base.org)
 - [Base Explorer (Basescan)](https://basescan.org)
@@ -60,8 +60,8 @@ Base ağında sadece "Hello World" kopyalamak yerine, her biri gerçek bir fikri
 
 ## 💡 Not
 
-Bu kontratlar tamamen eğitim ve topluluk amaçlıdır. Kod bilgisi olmadan da Base ekosisteminde aktif olunabileceğini göstermek için hazırlandı. Beğendiysen ⭐ yıldız bırakmayı unutma!
+Bu kontratlar tamamen eğitim ve topluluk amaçlıdır. Kod bilgisi olmadan da Base ekosisteminde aktif olunabileceğini göstermek için hazırlandı. Beğendiysen ⭐ yıldız bırakmayı unutma! Az katkın olsun bana bro.
 
 ---
 
-*Base ağında inşa etmek için buradayım. 🔵*
+*Base ağında inşa etmek için buradayım. Come 🔵*
